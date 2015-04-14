@@ -1,0 +1,17 @@
+Websites:
+
+Github.com
+https://github.com/chaz0468/arcade-game-udacity-class.git
+https://github.com/chaz0468/frontend-nanodegree-arcade-game
+
+w3schools.com
+
+books - n/a
+
+forums:
+
+http://discussions.udacity.com/
+
+http://discussions.udacity.com/t/need-help-with-online-classes-doesnt-show-header-tag-before-udacity-class/9946
+
+Coach, Code, and Coffee Hangout - April 7th
